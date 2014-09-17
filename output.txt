@@ -1,0 +1,3 @@
+players: [grandma, cockroach]
+winner: grandma
+reason: "Grandma can smash a tiny cockroach with ease."
